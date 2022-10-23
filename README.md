@@ -1,2 +1,2 @@
-# GitHub_test
-For learning and testing how to use git/github
+# Title of Readme
+This is content of readme
